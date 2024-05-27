@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Helvetica Neue Cyr";
+  src: local("Helvetica Neue Cyr roman"), local("Helvetica Neue Cyr Roman"), local("helveticaneuecyr-roman"), url("../fonts/helveticaneuecyr-roman.eot") format("eot"), url("../fonts/helveticaneuecyr-roman.ttf") format("truetype"), url("../fonts//helveticaneuecyr-roman.woff2") format("woff2"), url("../fonts/helveticaneuecyr-roman.woff") format("woff");
+  font-style: normal;
+}
+@font-face {
+  font-family: "SoyuzGrotesk";
+  src: local("SoyuzGrotesk"), local("SoyuzGrotesk-Bold"), local("SoyuzGrotesk Bold"), url("../fonts/soyuzgrotesk-bold.eot") format("eot"), url("../fonts/soyuzgrotesk-bold.ttf") format("truetype"), url("../fonts/soyuzgrotesk-bold.woff2") format("woff2"), url("../fonts/helveticaneuecyr-black.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
